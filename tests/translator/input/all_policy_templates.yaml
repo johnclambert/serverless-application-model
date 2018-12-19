@@ -123,3 +123,6 @@ Resources:
 
         - RekognitionFacesManagementPolicy:
             CollectionId: collection
+
+        - FilterLogEventsPolicy:
+            LogGroupName: name
